@@ -179,7 +179,6 @@ module.exports = {
             '/concepts/ipfs-implementations',
             '/concepts/comparisons',
             '/concepts/usage-ideas-examples',
-            ['/concepts/measuring', 'Measuring the network'],
             '/concepts/faq',
             '/concepts/glossary',
             '/concepts/further-reading/academic-papers'
